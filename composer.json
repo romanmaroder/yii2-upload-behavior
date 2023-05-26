@@ -23,12 +23,12 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
-    "yiisoft/yii2": "*",
+    "yiisoft/yii2": "~2.0.46",
     "romanmaroder/phpthumb": "*"
   },
   "repositories": [
     {
-      "type": "git",
+      "type": "vcs",
       "url": "https://github.com/romanmaroder/PHPThumb"
     }
   ],
