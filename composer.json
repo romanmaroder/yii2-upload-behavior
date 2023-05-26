@@ -20,7 +20,6 @@
       "role": "Developer"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "~2.0.46",
@@ -28,13 +27,14 @@
   },
   "repositories": [
     {
-      "type": "vcs",
+      "type": "git",
       "url": "https://github.com/romanmaroder/PHPThumb"
     }
   ],
   "autoload": {
     "psr-4": {
-      "yiidreamteam\\upload\\": "./src"
+      "romanmaroder\\upload\\": "./src"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
