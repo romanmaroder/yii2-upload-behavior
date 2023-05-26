@@ -3,7 +3,7 @@
  * @author Valentin Konusov <rlng-krsk@yandex.ru>
  */
 
-namespace yiidreamteam\upload\exceptions;
+namespace romanmaroder\upload\exceptions;
 
 use Exception;
 use yii\helpers\ArrayHelper;

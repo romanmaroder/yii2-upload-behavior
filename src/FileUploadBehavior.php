@@ -4,7 +4,7 @@
  * @author Alexey Samoylov <alexey.samoylov@gmail.com>
  * @link http://yiidreamteam.com/yii2/upload-behavior
  */
-namespace yiidreamteam\upload;
+namespace romanmaroder\upload;
 
 use Yii;
 use yii\base\InvalidCallException;
